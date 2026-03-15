@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   viewBox="0 0 11.6512 11.65007"
+   width="16"
+   height="16"
+   version="1.1"
+   sodipodi:docname="blazium_theme_streamdeck.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="45.056"
+     inkscape:cx="8.034446"
+     inkscape:cy="8.0011541"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <style
+     id="style1">.st0{fill:#f2f2f2}</style>
+  <path
+     class="st0"
+     d="M 11.249114,6.7430218 C 10.812278,9.3218288 8.5669012,11.286534 5.8635854,11.286534 2.8479429,11.288644 0.402086,8.8427871 0.402086,5.8250342 c 0,-3.0156425 2.4458569,-5.46149938 5.4636098,-5.46149938 2.4458571,0 4.5160772,1.60806118 5.2124822,3.82389368 L 10.054674,4.723449 C 9.5671909,2.8663704 7.8768274,1.4967748 5.8678061,1.4967748 c -2.3909887,0 -4.3303697,1.939381 -4.3303697,4.3303698 0,2.3909885 1.939381,4.3282594 4.3303697,4.3282594 1.924609,0 3.5558838,-1.2577488 4.1193379,-2.9945392 L 4.7493383,4.1304501 v 3.180247 L 6.5473278,6.2914144 7.4294407,6.8443172 4.7155732,8.4523784 3.7469379,7.829835 3.7638207,3.577547 4.785214,3.0246441 l 5.4003,3.106386 z"
+     id="path1"
+     sodipodi:nodetypes="ccssccsssccccccccccc"
+     style="stroke-width:0.0211031;fill:#ff80ff;fill-opacity:1" />
+</svg>

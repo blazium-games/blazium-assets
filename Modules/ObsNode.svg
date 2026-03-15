@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="blazium_theme_obs.svg"
+   width="16"
+   height="16"
+   inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="31.16"
+     inkscape:cx="12.483954"
+     inkscape:cy="5.9210526"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     id="g1"
+     transform="matrix(0.93153616,0,0,0.93153616,0.71926709,0.93673859)">
+    <circle
+       cx="7.815835"
+       cy="7.5823803"
+       fill="#302e31"
+       r="7.1533036"
+       stroke="#ffffff"
+       stroke-width="0.693393"
+       id="circle1"
+       style="fill:#302e31;fill-opacity:0;stroke:#ff80ff;stroke-opacity:1;stroke-width:1.07349563" />
+    <path
+       d="M 4.1792418,3.8258928 C 4.399034,2.7648674 5.118373,1.807803 6.085451,1.3282457 5.9172032,1.499067 5.7138114,1.6299715 5.5579636,1.8157664 4.9205582,2.5031519 4.6328089,3.4982266 4.8086339,4.4133242 5.0304325,5.810029 6.3432097,6.9509817 7.7659048,6.9309982 8.8688471,6.9803488 9.9438489,6.3455236 10.48335,5.3884154 c 1.154923,0.039194 2.277848,0.6354052 2.937244,1.5925132 0.33768,0.4995408 0.601445,1.0850151 0.619429,1.6944298 C 13.82623,7.866129 13.288729,7.14679 12.555377,6.7411531 11.846051,6.3415232 10.974877,6.2396559 10.197602,6.4754311 9.2225098,6.7551733 8.4172866,7.5524332 8.1395445,8.5334812 7.9037757,9.3147643 8.0046334,10.175931 8.3753196,10.891257 7.8598023,11.784471 6.9286845,12.421826 5.917633,12.613678 c -0.7772764,0.163051 -1.5945197,0.03714 -2.3178591,-0.289756 0.6474188,0.188847 1.3507313,0.221798 1.9941497,-0.007 0.8631669,-0.2857 1.5764929,-0.979049 1.8902386,-1.834247 C 7.8318119,9.5515113 7.699954,8.4445128 7.1144793,7.6453025 6.6768889,7.0158544 5.9875468,6.5723071 5.2382608,6.4144528 5.0004854,6.3720808 4.7607099,6.3528888 4.5209281,6.3309052 4.1392751,5.5616358 3.9994039,4.6684782 4.1912057,3.833258 Z"
+       fill="#c4c2c4"
+       fill-rule="nonzero"
+       id="path1"
+       style="fill:#ff80ff;fill-opacity:1;stroke-width:0.0476886" />
+  </g>
+</svg>
